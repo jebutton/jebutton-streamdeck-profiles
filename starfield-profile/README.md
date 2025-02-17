@@ -10,8 +10,11 @@ This profile only contains "Hotkey" actions from the "System" set of commands.
 
 ## Updates
 
+- 2025-02-17
+    * Fixed some incorrect hotkey assignments.
+    * Moved some of the ship controls into their own sub-folder.
 - 2025-02-10
-    * Fixed some missing hotkey assignements.
+    * Fixed some missing hotkey assignments.
     * Started Shipbuilder Page by adding a folder for color controls.
 - 2025-02-09
     * Created initial profile.
